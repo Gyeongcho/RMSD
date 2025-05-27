@@ -1,2 +1,8 @@
-*.python linguist-detectable=true
-*.matlab linguist-detectable=true
+*.html linguist-vendored
+*.css linguist-vendored
+*.scss linguist-vendored
+*.styl linguist-vendored
+*.php linguist-vendored
+*.less linguist-vendored
+*.python linguist-vendored=false
+*.matlab linguist-vendored=false
